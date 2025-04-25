@@ -15,6 +15,10 @@ and this is made using Javascript, Nodejs, API, and some packages or modules
   ```bash
   apt install ffmpeg nodejs git
   ```
+* Git Clone Repository
+  ```bash
+  git clone https://github.com/ZeltNamizake/drytmp3
+  ```
 * Open Directory and Install Modules
   ```bash
   cd drytmp3 && npm install axios https fluent-ffmpeg
